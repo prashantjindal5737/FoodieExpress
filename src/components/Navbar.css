@@ -1,0 +1,2 @@
+.title1 { text-decoration:none; font-size:1.5rem; font-weight:600; color:white; margin:10px; }
+.navbarmain { display:flex; align-items:center; justify-content:space-between; padding:1rem 2rem; background:linear-gradient(to right,#ff4e50,#ff914d); flex-wrap:wrap; box-shadow:0 2px 8px rgba(0,0,0,0.1); }
